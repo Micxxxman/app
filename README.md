@@ -1,4 +1,4 @@
-# mqtt 
+# mqtt tcp://t2tesg:1883
  > topic/pmpub/{WIFI_BLE_MAC}
  > topic/pmsub/{WIFI_BLE_MAC}
 
